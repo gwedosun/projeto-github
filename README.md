@@ -19,9 +19,9 @@ projeto com javascript (+html e css) para o desafio de carreira do M03. DBE T02,
    ![image](https://github.com/gwedosun/projeto-github/assets/79537610/d4186c21-0ab5-4e67-9ee0-b18c15ba65f4)
 
    - com uso do javascript: prompts da página, onde, por meio dos scripts escritos no body do html, os nomes originais são substituídos pelos nomes inseridos pelo leitor da história.
-   ![image](![image](https://github.com/gwedosun/projeto-github/assets/79537610/e596870a-4e7c-44b0-b3d1-b48d2fc8eb2c)
+   (![image](https://github.com/gwedosun/projeto-github/assets/79537610/e596870a-4e7c-44b0-b3d1-b48d2fc8eb2c)
 imagem 1: prompt escrito "Olá! Responda as perguntas a seguir para continuar.".
-   ![image](![image](https://github.com/gwedosun/projeto-github/assets/79537610/97b8260b-59dd-43a5-9a6d-0df4aaf571ce)
+   (![image](https://github.com/gwedosun/projeto-github/assets/79537610/97b8260b-59dd-43a5-9a6d-0df4aaf571ce)
 imagem 2: prompt que recebe o nome que substituirá "Shikamaru".
    ![image](https://github.com/gwedosun/projeto-github/assets/79537610/ce2e89e5-f80e-47a5-9544-bc2e565f840c)
 imagem 3: prompt que recebe o nome que substituirá "Nara".
