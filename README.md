@@ -4,7 +4,7 @@ projeto com javascript (+html e css) para o desafio de carreira do M03. DBE T02,
 
 1. a ideia de histórias interativas na internet
   as histórias interativas têm um histórico já longo na internet. na verdade, elas partem da ideia de fanfictions (ficções escritas por fãs). com o auxílio de scripts incluídos nas páginas html onde a fanfic estaria, a história interativa se torna uma "em que é possível que você – e as pessoas que você escolher – se tornem personagens principais e/ou participantes [...] basta responder as perguntas que aparecem na tela para que isso seja possível" (Fanfic Obsession, o maior site de fanfics interativas do brasil). para o presente projeto, utilizei uma história de minha autoria, cujos personagens principais eram Shikamaru Nara e Keiko, que passaram a ser interativos e recebem qualquer nome para a leitura.
-![image](![image](https://github.com/gwedosun/projeto-github/assets/79537610/e7270376-88ac-4149-b95d-9b9b216c220d)
+(![image](https://github.com/gwedosun/projeto-github/assets/79537610/e7270376-88ac-4149-b95d-9b9b216c220d)
 )
 
 
@@ -12,7 +12,7 @@ projeto com javascript (+html e css) para o desafio de carreira do M03. DBE T02,
    html, css e javascript. editor de texto. 
 5. o passo-a-passo para tornar a história interativa
    - com o uso do html: criar a página onde a história será inserida.
-   ![image](![image](https://github.com/gwedosun/projeto-github/assets/79537610/2befe3ad-3195-42a6-8778-d516da53decf)
+   (![image](https://github.com/gwedosun/projeto-github/assets/79537610/2befe3ad-3195-42a6-8778-d516da53decf)
 )
 
    - com o uso do css: estilo da página, para melhor comodidade na experiência de leitura do usuário.
